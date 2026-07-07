@@ -14,6 +14,10 @@ The full implementation will be publicly released upon acceptance of the manuscr
 
 ## Acknowledgements
 
+## Acknowledgements
+
 This project builds upon the [Motion Transformer (MTR)](https://github.com/sshaoshuai/MTR) framework. We sincerely thank the authors of MTR for releasing their implementation and providing a strong foundation for motion prediction research.
 
-We also thank the contributors and maintainers of the open-source libraries used in this project.
+We also thank the authors of the [ESP Dataset](https://github.com/Dingrui-Wang/ESP-Dataset) for making the dataset publicly available and supporting research on vehicle trajectory prediction in emergency scenarios.
+
+We further thank the contributors and maintainers of the open-source libraries used in this project.
