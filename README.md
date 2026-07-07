@@ -3,4 +3,4 @@ Official implementation of GC-StyleTP for highway cut-in trajectory prediction w
 GC-StyleTP is a trajectory prediction framework for highway cut-in scenarios. The method models cut-in behavior from a gap-constrained interaction perspective and incorporates driving-style priors, dynamic precursor cues, and risk-gap causal fusion into a Motion Transformer based prediction framework.
 ## Framework
 
-![GC-StyleTP framework](Fig8.png)
+![GC-StyleTP framework](framework.png)
